@@ -2,9 +2,6 @@
 
 Game platformer 2D yang dibuat dengan Unity 6 (`6000.0.85f2`). Mainkan sebagai Hilmi melewati rintangan, musuh, dan boss di akhir level sampai ke garis finish.
 
-Main langsung di browser lewat itch.io:
-https://bagasadh.itch.io/hilmi-vs-roti-2d
-
 ## Kontrol
 
 - `A` / `D` atau `Panah Kiri` / `Panah Kanan`: gerak kiri dan kanan
@@ -32,3 +29,5 @@ Di sepanjang level ada beberapa roti yang memberi efek sementara:
 1. Clone repo ini lalu buka di **Unity Hub** menggunakan **Unity `6000.0.85f2`**.
 2. Buka scene `Assets/Scenes/SampleScene.unity`.
 3. Tekan Play di Unity Editor.
+
+ONLY PLAYABLE WITH KEYBOARD BUTTON, DESKTOP TECHNICALLY
