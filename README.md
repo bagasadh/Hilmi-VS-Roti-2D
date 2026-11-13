@@ -2,6 +2,10 @@
 
 Game platformer 2D yang dibuat dengan Unity 6 (`6000.0.85f2`). Mainkan sebagai Hilmi melewati rintangan, musuh, dan boss di akhir level sampai ke garis finish.
 
+## Dukungan
+
+- Desktop (semua dengan keyboard input)
+
 ## Kontrol
 
 - `A` / `D` atau `Panah Kiri` / `Panah Kanan`: gerak kiri dan kanan
