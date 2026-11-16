@@ -1,31 +1,17 @@
 # Hilmi VS Roti 2D
 
-A 2D platformer built with Unity 6 (`6000.0.85f2`). Play as Hilmi, get past obstacles and enemies, and beat the final boss to reach the finish line.
+2D platformer built with Unity 6 (`6000.0.85f2`). Jump past hazards, collect bread power-ups, and defeat the boss (Zaki) to reach the finish line.
 
-## Platform & Controls
+## Controls (Desktop Keyboard)
+- `A` / `D` or `Left` / `Right`: move
+- `Space` / `W` or `Up`: jump (hold for higher jump)
 
-Desktop only, played with a keyboard:
-- `A` / `D` or `Left` / `Right` arrow: move left and right
-- `Space` / `W` or `Up` arrow: jump (hold briefly to jump higher)
+## Bread Effects
+- **Roti Tawar:** higher jump
+- **Roti Cokelat:** faster movement
+- **Roti Keju:** ram through enemies
+- **Roti Sobek:** 1-hit shield
+- **Roti Jamuran:** slows movement and jump (avoid)
 
-## How to Play
-
-1. Run and jump past hazards (spikes, falling blocks, moving platforms) toward the finish line.
-2. Stomp enemies from above to defeat them, or dodge their attacks.
-3. Hit checkpoints along the way so you don't restart from the beginning on defeat.
-4. Defeat the boss (Zaki) at the end before crossing the finish line.
-
-## Bread Power-Ups
-
-Bread items scattered through the level grant temporary effects:
-- **Roti Tawar**: higher jump
-- **Roti Cokelat**: faster movement
-- **Roti Keju**: dash/ram through enemies
-- **Roti Sobek**: shield that absorbs 1 hit
-- **Roti Jamuran**: debuff — slows movement and lowers jump height (avoid)
-
-## Opening in Unity
-
-1. Clone this repository and open it in **Unity Hub** with **Unity `6000.0.85f2`**.
-2. Open `Assets/Scenes/SampleScene.unity`.
-3. Press Play in the Unity Editor.
+## Run in Unity
+Open with **Unity `6000.0.85f2`**, load `Assets/Scenes/SampleScene.unity`, and press Play.
