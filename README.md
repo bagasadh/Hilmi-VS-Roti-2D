@@ -2,12 +2,9 @@
 
 Game platformer 2D yang dibuat dengan Unity 6 (`6000.0.85f2`). Mainkan sebagai Hilmi melewati rintangan, musuh, dan boss di akhir level sampai ke garis finish.
 
-## Dukungan
+## Platform & Kontrol
 
-- Desktop (semua dengan keyboard input)
-
-## Kontrol
-
+Saat ini hanya mendukung desktop dengan input keyboard:
 - `A` / `D` atau `Panah Kiri` / `Panah Kanan`: gerak kiri dan kanan
 - `Space` / `W` / `Panah Atas`: lompat (tahan sebentar untuk lompat lebih tinggi)
 
@@ -21,7 +18,6 @@ Game platformer 2D yang dibuat dengan Unity 6 (`6000.0.85f2`). Mainkan sebagai H
 ## Efek Roti
 
 Di sepanjang level ada beberapa roti yang memberi efek sementara:
-
 - **Roti Tawar**: lompat lebih tinggi
 - **Roti Cokelat**: lari lebih cepat
 - **Roti Keju**: mode tabrak musuh
@@ -33,5 +29,3 @@ Di sepanjang level ada beberapa roti yang memberi efek sementara:
 1. Clone repo ini lalu buka di **Unity Hub** menggunakan **Unity `6000.0.85f2`**.
 2. Buka scene `Assets/Scenes/SampleScene.unity`.
 3. Tekan Play di Unity Editor.
-
-ONLY PLAYABLE WITH KEYBOARD BUTTON, DESKTOP TECHNICALLY
