@@ -1,31 +1,31 @@
 # Hilmi VS Roti 2D
 
-Game platformer 2D yang dibuat dengan Unity 6 (`6000.0.85f2`). Mainkan sebagai Hilmi melewati rintangan, musuh, dan boss di akhir level sampai ke garis finish.
+A 2D platformer built with Unity 6 (`6000.0.85f2`). Play as Hilmi, get past obstacles and enemies, and beat the final boss to reach the finish line.
 
-## Platform & Kontrol
+## Platform & Controls
 
-Saat ini hanya mendukung desktop dengan input keyboard:
-- `A` / `D` atau `Panah Kiri` / `Panah Kanan`: gerak kiri dan kanan
-- `Space` / `W` / `Panah Atas`: lompat (tahan sebentar untuk lompat lebih tinggi)
+Desktop only, played with a keyboard:
+- `A` / `D` or `Left` / `Right` arrow: move left and right
+- `Space` / `W` or `Up` arrow: jump (hold briefly to jump higher)
 
-## Cara Main
+## How to Play
 
-1. Jalan dan lompati rintangan (duri, blok jatuh, platform bergerak) menuju garis finish.
-2. Kalahkan musuh dengan menginjaknya dari atas, atau hindari serangan mereka.
-3. Aktifkan checkpoint di tengah jalan supaya tidak perlu mengulang dari awal kalau kalah.
-4. Di bagian akhir ada boss (Zaki) yang harus dihadapi sebelum mencapai finish.
+1. Run and jump past hazards (spikes, falling blocks, moving platforms) toward the finish line.
+2. Stomp enemies from above to defeat them, or dodge their attacks.
+3. Hit checkpoints along the way so you don't restart from the beginning on defeat.
+4. Defeat the boss (Zaki) at the end before crossing the finish line.
 
-## Efek Roti
+## Bread Power-Ups
 
-Di sepanjang level ada beberapa roti yang memberi efek sementara:
-- **Roti Tawar**: lompat lebih tinggi
-- **Roti Cokelat**: lari lebih cepat
-- **Roti Keju**: mode tabrak musuh
-- **Roti Sobek**: perisai untuk menahan 1x serangan
-- **Roti Jamuran**: debuff — gerak melambat dan lompat jadi pendek (hindari)
+Bread items scattered through the level grant temporary effects:
+- **Roti Tawar**: higher jump
+- **Roti Cokelat**: faster movement
+- **Roti Keju**: dash/ram through enemies
+- **Roti Sobek**: shield that absorbs 1 hit
+- **Roti Jamuran**: debuff — slows movement and lowers jump height (avoid)
 
-## Menjalankan Proyek di Unity
+## Opening in Unity
 
-1. Clone repo ini lalu buka di **Unity Hub** menggunakan **Unity `6000.0.85f2`**.
-2. Buka scene `Assets/Scenes/SampleScene.unity`.
-3. Tekan Play di Unity Editor.
+1. Clone this repository and open it in **Unity Hub** with **Unity `6000.0.85f2`**.
+2. Open `Assets/Scenes/SampleScene.unity`.
+3. Press Play in the Unity Editor.
